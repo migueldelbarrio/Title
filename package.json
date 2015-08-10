@@ -29,7 +29,5 @@
     "express-partials": "^0.3.0",
     "mysql": "^2.7.0",
     "pg-hstore": "^2.3.2",
-    
- 
   }
 }
